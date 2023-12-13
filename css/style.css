@@ -1,0 +1,31 @@
+.h1 {
+    color: lightcoral;
+    font-weight: bold;
+    background-color: green;
+    text-align: center;
+    font-size: large;
+}
+
+.title {
+    font-family: Gramond, serif;
+    text-align: center;
+}
+
+.przyciski {
+    font-size: 20px;
+    font-weight: 300;
+    color: green;
+    text-align: center;
+}
+
+.pierwszy {
+    background-color:lightblue;
+}
+
+.drugi {
+    background-color:beige;
+}
+
+.trzeci {
+    background-color:lightblue;
+}
